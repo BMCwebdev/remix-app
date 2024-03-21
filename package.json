@@ -11,7 +11,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@bmcwebdev/rac-stylex": "npm:@BMCwebdev/rac-stylex@^0.0.2",
+    "@bmcwebdev/rac-stylex": "npm:@BMCwebdev/rac-stylex@^0.0.3",
     "@remix-run/node": "^2.8.1",
     "@remix-run/react": "^2.8.1",
     "@remix-run/serve": "^2.8.1",
