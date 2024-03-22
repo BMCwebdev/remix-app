@@ -6,6 +6,9 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
+// import '@bmcwebdev/rac-stylex/dist/style.css';
+import './stylex.css';
+
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
