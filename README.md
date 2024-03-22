@@ -4,7 +4,7 @@
 * If you go to `app > routes > _index.tsx` this is the one file importing a component (`Button`) from the component library. It is also the only component in the component library that is using StyleX
 * Component library: https://github.com/BMCwebdev/rac-stylex
 * If you remove the use of the `colors` vars in the Button component (import statement and actual usage), everything will work fine.
-
+* Currently there are two up-to-date package versions, `0.0.3`(the version currently imported in this app) and `0.0.3-removedStylexVars`. You can import either into this app to test.
 
 ***
 Original ReadMe below
