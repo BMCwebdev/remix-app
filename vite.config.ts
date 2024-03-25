@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [
     remix(),
     styleX({
-      libraries: ['@bmcwebdev/rac-stylex'],
+      libraries: ['@bmcwebdev/rac-stylex', '@bmcwebdev/rac-stylex-tokens'],
     }),
     tsconfigPaths()
   ],
